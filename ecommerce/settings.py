@@ -139,7 +139,7 @@ EMAIL_PORT = "587"
 EMAIL_USE_TLS = "True"
 
 EMAIL_HOST_USER = "djangotest1121@gmail.com"
-EMAIL_HOST_PASSWORD = "hwqslznxytzozoba"
+EMAIL_HOST_PASSWORD = "jiliihgbjdrxflkx"
 
 
 SECURE_CROSS_ORIGIN_OPENER_POLICY = "same-origin-allow-popups"
